@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 125]:: Rabies :: [DISEASE ID rabies]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very rare- Fewer than 100 thousand cases per year (India)
+                OCCURRENCE:
+                    Vaccinate dogs and cats against rabies, Do not keep wild animals as pets, Leave stray animals alone.
+                RISKFAC:
+                    Travelling where rabies is common, Activities that put you in contact with wild animals.
+        

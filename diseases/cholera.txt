@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 114]:: Cholera :: [DISEASE ID cholera]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Drink safe water, Wash your hands often with soap, Use toilets, use safe water for cooking.
+                RISKFAC:
+                    Poor sanitary conditions, Reduced or nonexistent stomach acid, Type O blood, undercooked shellfish.
+        

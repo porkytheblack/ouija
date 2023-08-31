@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 127]:: Diphtheria :: [DISEASE ID diphtheria]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very rare- Fewer than 100 thousand cases per year (India)
+                OCCURRENCE:
+                    Prevent contact with infected persons.
+                RISKFAC:
+                    People living in unsanitary conditions, anyone who tours where diphtheria infections are more common
+        

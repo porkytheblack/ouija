@@ -1,0 +1,43 @@
+
+        
+            [DISEASE NUMBER 14]:: Paralysis (brain hemorrhage) :: [DISEASE ID paralysis_(brain_hemorrhage)]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  vomiting
+                            ,
+                                (2)  headache
+                            ,
+                                (3)  weakness_of_one_body_side
+                            ,
+                                (4)  altered_sensorium
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Paralysis (brain hemorrhage)
+                        ,
+                            (2) massage
+                        ,
+                            (3) eat healthy
+                        ,
+                            (4) exercise
+                        ,
+                            (5) consult doctor
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

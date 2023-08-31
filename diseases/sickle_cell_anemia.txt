@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 155]:: Sickle cell anemia :: [DISEASE ID sickle_cell_anemia]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Take folic acid supplements daily, healthy diet. Drink plenty of water. Avoid temperature extremes.
+                RISKFAC:
+                    If both parents carry a sickle cell gene.
+        

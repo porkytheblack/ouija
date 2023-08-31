@@ -1,0 +1,26 @@
+
+        
+            [DISEASE NUMBER 70]:: Chloramphenicol :: [DISEASE ID chloramphenicol]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    2,2-dichloro-N- [(aR,bR)-b-hydroxy-a-hydroxymethyl- 4-nitrophenethyl] acetamide
+
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

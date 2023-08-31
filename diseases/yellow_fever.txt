@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 138]:: Yellow fever :: [DISEASE ID yellow_fever]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Prevent mosquito bites Use insect repellent, wear protective clothing, and get vaccinated before traveling
+                RISKFAC:
+                    If you travel to an area where mosquitoes continue to carry the yellow fever virus.
+        

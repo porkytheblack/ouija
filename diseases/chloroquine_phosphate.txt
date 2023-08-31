@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 68]:: Chloroquine phosphate :: [DISEASE ID chloroquine_phosphate]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    500 mg of chloroquine phosphate USP, equivalent to 300 mg chloroquine base.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

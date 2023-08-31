@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 112]:: Bird flu :: [DISEASE ID bird_flu]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Use different utensils for cooked and raw meat, cook meat fully, avoid contact with live poultry.
+                RISKFAC:
+                    contact with sick birds or with surfaces contaminated by their feathers, saliva or droppings
+        

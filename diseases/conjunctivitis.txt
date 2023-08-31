@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 122]:: Conjunctivitis :: [DISEASE ID conjunctivitis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very rare- Fewer than 100 thousand cases per year (India)
+                OCCURRENCE:
+                    Avoid touching your eyes with unwashed hands, Do not share items used by an infected person.
+                RISKFAC:
+                    Using contact lenses, Exposure to something for which you have an allergy.
+        

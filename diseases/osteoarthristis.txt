@@ -1,0 +1,47 @@
+
+        
+            [DISEASE NUMBER 34]:: Osteoarthristis :: [DISEASE ID osteoarthristis]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  joint_pain
+                            ,
+                                (2)  neck_pain
+                            ,
+                                (3)  knee_pain
+                            ,
+                                (4)  hip_joint_pain
+                            ,
+                                (5)  swelling_joints
+                            ,
+                                (6)  painful_walking
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Osteoarthristis
+                        ,
+                            (2) acetaminophen
+                        ,
+                            (3) consult nearest hospital
+                        ,
+                            (4) follow up
+                        ,
+                            (5) salt baths
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

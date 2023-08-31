@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 47]:: Antihistamine :: [DISEASE ID antihistamine]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    Brompheniramine, Cetirizine, Chlorpheniramine
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

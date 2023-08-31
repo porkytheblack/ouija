@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 135]:: Rubella :: [DISEASE ID rubella]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very rare- Fewer than 100 thousand cases per year (India)
+                OCCURRENCE:
+                    Getting vaccinated, do not contact ill person
+                RISKFAC:
+                    Contact with infected patient, not vaccinated, Overcrowding, Poor immune system, Medical personnel.
+        

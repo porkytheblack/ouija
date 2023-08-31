@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 150]:: Eczema :: [DISEASE ID eczema]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Establish a skin care routine, Use mild soap, use gloves if job requires hands in water
+                RISKFAC:
+                    Family history of eczema, allergies, hay fever or asthma.
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 132]:: Meningitis :: [DISEASE ID meningitis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Cover your mouth when coughing or sneezing, Clean your hands before eating, do not contact ill person
+                RISKFAC:
+                    Skipping vaccinations, pregnant women, weak immune system, AIDS, alcoholism, diabetes, using drugs
+        

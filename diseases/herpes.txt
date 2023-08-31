@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 120]:: Herpes :: [DISEASE ID herpes]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Always use condoms and dental dams during oral, anal, and vaginal sex.
+                RISKFAC:
+                    Having multiple sexual partners, being woman, having sex during a herpes outbreak.
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 86]:: no medicine available (consult doctor) :: [DISEASE ID no_medicine_available_(consult_doctor)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 117]:: Gonorrhoea :: [DISEASE ID gonorrhoea]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Use condom during sexual intercourse, have sexually monogamous partner with no infection.
+                RISKFAC:
+                    Having a sex partner with multiple partners, Having multiple sex partners, Having had another STD
+        

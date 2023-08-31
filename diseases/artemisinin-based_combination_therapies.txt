@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 69]:: Artemisinin-based combination therapies :: [DISEASE ID artemisinin-based_combination_therapies]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    lumefantrine, mefloquine, amodiaquine, sulfadoxine, piperaquine and chlorproguanil/dapsone.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

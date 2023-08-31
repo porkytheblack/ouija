@@ -1,0 +1,47 @@
+
+        
+            [DISEASE NUMBER 36]:: (vertigo) Paroymsal  Positional Vertigo :: [DISEASE ID (vertigo)_paroymsal__positional_vertigo]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  vomiting
+                            ,
+                                (2)  headache
+                            ,
+                                (3)  nausea
+                            ,
+                                (4)  spinning_movements
+                            ,
+                                (5)  loss_of_balance
+                            ,
+                                (6)  unsteadiness
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) (vertigo) Paroymsal  Positional Vertigo
+                        ,
+                            (2) lie down
+                        ,
+                            (3) avoid sudden change in body
+                        ,
+                            (4) avoid abrupt head movment
+                        ,
+                            (5) relax
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

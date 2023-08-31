@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 115]:: Depression :: [DISEASE ID depression]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Handle stress, improve your self-esteem, Get enough sleep, eat well, and exercise regularly
+                RISKFAC:
+                    Certain traits, Traumatic events, family history, alcoholism or suicide, intersex, chronic illness
+        

@@ -1,0 +1,60 @@
+
+        
+            [DISEASE NUMBER 33]:: Hypoglycemia :: [DISEASE ID hypoglycemia]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  vomiting
+                            ,
+                                (2)  fatigue
+                            ,
+                                (3)  anxiety
+                            ,
+                                (4)  sweating
+                            ,
+                                (5)  headache
+                            ,
+                                (6)  nausea
+                            ,
+                                (7)  blurred_and_distorted_vision
+                            ,
+                                (8)  excessive_hunger
+                            ,
+                                (9)  drying_and_tingling_lips
+                            ,
+                                (10)  slurred_speech
+                            ,
+                                (11)  irritability
+                            ,
+                                (12)  palpitations
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Hypoglycemia
+                        ,
+                            (2) lie down on side
+                        ,
+                            (3) check in pulse
+                        ,
+                            (4) drink sugary drinks
+                        ,
+                            (5) consult doctor
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Lie down on side, check in pulse, drink sugary drinks.
+
+                RISKFAC:
+                    Taking too much insulin, skipping a meal, or exercising harder than usual.
+        

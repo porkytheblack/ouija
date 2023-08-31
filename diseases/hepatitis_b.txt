@@ -1,0 +1,59 @@
+
+        
+            [DISEASE NUMBER 21]:: Hepatitis B :: [DISEASE ID hepatitis_b]
+
+            DISEASE SYMPTOMS::
+                
+                                (1) itching
+                            ,
+                                (2)  fatigue
+                            ,
+                                (3)  lethargy
+                            ,
+                                (4)  yellowish_skin
+                            ,
+                                (5)  dark_urine
+                            ,
+                                (6)  loss_of_appetite
+                            ,
+                                (7)  abdominal_pain
+                            ,
+                                (8)  yellow_urine
+                            ,
+                                (9)  yellowing_of_eyes
+                            ,
+                                (10)  malaise
+                            ,
+                                (11)  receiving_blood_transfusion
+                            ,
+                                (12)  receiving_unsterile_injections
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Hepatitis B
+                        ,
+                            (2) consult nearest hospital
+                        ,
+                            (3) vaccination
+                        ,
+                            (4) eat healthy
+                        ,
+                            (5) medication
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 73]:: Benazepril (Lotensin) :: [DISEASE ID benazepril_(lotensin)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    carboxyl-containing angiotensin-converting enzyme (ACE) inhibitor
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

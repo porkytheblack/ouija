@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 166]:: Anxiety disorders :: [DISEASE ID anxiety_disorders]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Avoid coffee, tea, cola and chocolate, xercise daily and eat a healthy, balanced diet.
+                RISKFAC:
+                    Trauma, Stress due to an illness, Other mental health disorders, family history
+        

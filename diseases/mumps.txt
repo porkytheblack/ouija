@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 133]:: Mumps :: [DISEASE ID mumps]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very rare- Fewer than 100 thousand cases per year (India)
+                OCCURRENCE:
+                    Cover your mouth when coughing or sneezing, Clean your hands before eating, do not contact ill person
+                RISKFAC:
+                    Being unvaccinated, travelling to places where mumps is common, contact of ill person
+        

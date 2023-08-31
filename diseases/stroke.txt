@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 147]:: Stroke :: [DISEASE ID stroke]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    healthy diet, exercise regularly, and avoid smoking and drinking too much alcohol.
+                RISKFAC:
+                    Obesity, Heavy drinking, Use of illegal drugs, High BP, Cigarette smoking, High cholesterol
+        

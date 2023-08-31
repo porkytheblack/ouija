@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 91]:: Abilify (aripiprazole) :: [DISEASE ID abilify_(aripiprazole)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    cornstarch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

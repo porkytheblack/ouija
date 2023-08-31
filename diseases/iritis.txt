@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 175]:: Iritis :: [DISEASE ID iritis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Protecting the eye from injury, avoid exposure of eye to infections, foods rich in vitamins C and E.
+                RISKFAC:
+                    Develop a sexually transmitted infection, Smoke tobacco, Have a specific genetic alteration.
+        

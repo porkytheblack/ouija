@@ -1,0 +1,47 @@
+
+        
+            [DISEASE NUMBER 22]:: Hepatitis C :: [DISEASE ID hepatitis_c]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  fatigue
+                            ,
+                                (2)  yellowish_skin
+                            ,
+                                (3)  nausea
+                            ,
+                                (4)  loss_of_appetite
+                            ,
+                                (5)  yellowing_of_eyes
+                            ,
+                                (6)  family_history
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Hepatitis C
+                        ,
+                            (2) Consult nearest hospital
+                        ,
+                            (3) vaccination
+                        ,
+                            (4) eat healthy
+                        ,
+                            (5) medication
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

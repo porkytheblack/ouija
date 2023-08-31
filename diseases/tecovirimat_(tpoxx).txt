@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 93]:: tecovirimat (tpoxx) :: [DISEASE ID tecovirimat_(tpoxx)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    cytochrome P450 (CYP)3A and a weak inhibitor of CYP2C8 and CYP2C19
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

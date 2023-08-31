@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 50]:: Proton-pump inhibitor :: [DISEASE ID proton-pump_inhibitor]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    esomeprazole, lansoprazole, omeprazole, pantoprazole and rabeprazole
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

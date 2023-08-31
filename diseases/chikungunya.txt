@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 113]:: Chikungunya :: [DISEASE ID chikungunya]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Prevent mosquito bites, Use insect repellent, wear long-sleeved shirts and pants.
+                RISKFAC:
+                    Older age, people with underlying medical conditions, such as hypertension, diabetes, or heart disease.
+        

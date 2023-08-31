@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 66]:: Levalbuterol :: [DISEASE ID levalbuterol]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    0.31 mg of levalbuterol or 0.63 mg of levalbuterol
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

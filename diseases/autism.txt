@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 149]:: Autism :: [DISEASE ID autism]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Live healthy. Have regular check-ups, eat well-balanced meals, and exercise.
+                RISKFAC:
+                    Family history, being a boy, Other disorders, Extremely preterm babies, older parents at birth of child
+        

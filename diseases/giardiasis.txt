@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 129]:: Giardiasis :: [DISEASE ID giardiasis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Practice good hygiene, Avoid contaminated water,eating contaminated food, Prevent contact with feces
+                RISKFAC:
+                    Children, People without access to safe drinking water, rural or wilderness areas
+        

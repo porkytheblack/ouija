@@ -1,0 +1,35 @@
+
+        
+            [DISEASE NUMBER 11]:: Hypertension  :: [DISEASE ID hypertension]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  headache
+                            ,
+                                (2)  chest_pain
+                            ,
+                                (3)  dizziness
+                            ,
+                                (4)  loss_of_balance
+                            ,
+                                (5)  lack_of_concentration
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    meditation,salt baths,reduce stress,get proper sleep
+                RISKFAC:
+                    Diabetes, Unhealthy Diet, Obesity, Excessive Alcohol, Tobacco Use, Family History, high BP
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 153]:: Muscular dystrophy :: [DISEASE ID muscular_dystrophy]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Exercise, Braces, Mobility aids, Breathing assistance, swimming.
+                RISKFAC:
+                    Family history
+        

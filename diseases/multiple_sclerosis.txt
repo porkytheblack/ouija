@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 163]:: Multiple sclerosis :: [DISEASE ID multiple_sclerosis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    No precaution
+                RISKFAC:
+                    Family history, being woman, Smoking, Vitamin D deficiency, diabetes, inflammatory bowel disease
+        

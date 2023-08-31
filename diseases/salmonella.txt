@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 143]:: Salmonella :: [DISEASE ID salmonella]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Avoid eating raw eggs, undercooked meat, Refrigerate food properly, wash hands after contacting meat
+                RISKFAC:
+                    Owning a pet bird or reptile, Inflammatory bowel disease, AIDS, Sickle cell disease, Malaria.
+        

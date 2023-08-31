@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 142]:: Phthiriasis :: [DISEASE ID phthiriasis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Do not use infected person's personal items
+                RISKFAC:
+                    If in sexual contact with person with pubic lice.
+        

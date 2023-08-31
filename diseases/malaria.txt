@@ -1,0 +1,54 @@
+
+        
+            [DISEASE NUMBER 16]:: Malaria :: [DISEASE ID malaria]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  chills
+                            ,
+                                (2)  vomiting
+                            ,
+                                (3)  high_fever
+                            ,
+                                (4)  sweating
+                            ,
+                                (5)  headache
+                            ,
+                                (6)  nausea
+                            ,
+                                (7)  diarrhoea
+                            ,
+                                (8)  muscle_pain
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Malaria
+                        ,
+                            (2) Consult nearest hospital
+                        ,
+                            (3) avoid oily food
+                        ,
+                            (4) avoid non veg food
+                        ,
+                            (5) keep mosquitos out
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Avoid oily food, avoid non veg food, keep mosquitos out
+
+                RISKFAC:
+                    Availability of mosquito breeding site or stagnant water near the home, staying outdoors overnight.
+
+
+        

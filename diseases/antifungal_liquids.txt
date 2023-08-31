@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 45]:: Antifungal liquids :: [DISEASE ID antifungal_liquids]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    clotrimazole, econazole, ketoconazole, miconazole, tioconazole, terbinafine, and amorolfine
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

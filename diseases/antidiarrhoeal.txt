@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 49]:: Antidiarrhoeal :: [DISEASE ID antidiarrhoeal]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    chloroform, methanol, and aqueous extracts of Bidens odorata Cav.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

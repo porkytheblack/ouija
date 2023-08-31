@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 161]:: Ankylosing spondylitis :: [DISEASE ID ankylosing_spondylitis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Avoid Alcohol, Get Plenty of Calcium and Vitamin D, Practice Good Posture, exercise
+                RISKFAC:
+                    Late adolescence or early adulthood, being man, family history
+        

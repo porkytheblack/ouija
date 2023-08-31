@@ -1,0 +1,47 @@
+
+        
+            [DISEASE NUMBER 10]:: Bronchial Asthma :: [DISEASE ID bronchial_asthma]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  fatigue
+                            ,
+                                (2)  cough
+                            ,
+                                (3)  high_fever
+                            ,
+                                (4)  breathlessness
+                            ,
+                                (5)  family_history
+                            ,
+                                (6)  mucoid_sputum
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Bronchial Asthma
+                        ,
+                            (2) switch to loose cloothing
+                        ,
+                            (3) take deep breaths
+                        ,
+                            (4) get away from trigger
+                        ,
+                            (5) seek help
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

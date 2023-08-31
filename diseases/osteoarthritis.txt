@@ -1,0 +1,26 @@
+
+        
+            [DISEASE NUMBER 108]:: Osteoarthritis :: [DISEASE ID osteoarthritis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    acetaminophen, salt baths, Keep a healthy body weight, Prevent injury to your joints.
+
+                RISKFAC:
+                    Older age, overweight, being a woman, Joint injuries, Bone deformities, certain metabolic diseases.
+        

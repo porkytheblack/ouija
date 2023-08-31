@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 61]:: Proton pump inhibitors :: [DISEASE ID proton_pump_inhibitors]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    Prilosec,Prevacid ,Aciphex,Nexium Protonix
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

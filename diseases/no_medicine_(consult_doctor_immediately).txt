@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 79]:: No medicine (consult doctor immediately) :: [DISEASE ID no_medicine_(consult_doctor_immediately)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

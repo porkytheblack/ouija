@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 119]:: Thyroid :: [DISEASE ID thyroid]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Avoid smoking, drink plenty water, Eat selenium, tyrosine, and antioxidants rich food.
+                RISKFAC:
+                    Woman who�s had menopause, Had prolonged, calcium, vitamin D deficiency, Had radiation treatment.
+        

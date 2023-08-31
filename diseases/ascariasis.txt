@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 164]:: Ascariasis :: [DISEASE ID ascariasis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Avoid ingesting soil that may be contaminated with human or pig feces, washing hands before food
+                RISKFAC:
+                    Children likely to play in dirt, Poor sanitation.
+        

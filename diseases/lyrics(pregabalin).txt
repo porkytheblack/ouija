@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 89]:: Lyrics(pregabalin) :: [DISEASE ID lyrics(pregabalin)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    3-isobutyl GABA, (S)-3-isobutyl-?-aminobutyric acid
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

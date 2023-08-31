@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 96]:: cholinesterase inhibitors :: [DISEASE ID cholinesterase_inhibitors]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    ?-humulene (46.3%), ?-caryophyllene (9.3%), ?-copaene (8.2%), ?-myrcene (4.3%), Z(E)-?-farnesene (3.7%).
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

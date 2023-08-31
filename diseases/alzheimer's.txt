@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 158]:: Alzheimer's :: [DISEASE ID alzheimer's]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Stopping smoking, keeping alcohol to a minimum, eating a healthy, balanced diet, exercising
+                RISKFAC:
+                    Lack of exercise, Obesity, Smoking, High BP, High cholesterol, Poorly controlled diabetes, family history
+        

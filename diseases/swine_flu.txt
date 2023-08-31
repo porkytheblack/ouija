@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 110]:: Swine flu :: [DISEASE ID swine_flu]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Get vaccinated against H1N1, wash your hands often with soap, Avoid touching your eyes,nose or mouth
+                RISKFAC:
+                    Swine farmers and veterinarians, traveled to an area where many people are affected by swine flu.
+        

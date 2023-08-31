@@ -1,0 +1,58 @@
+
+        
+            [DISEASE NUMBER 28]:: Pneumonia :: [DISEASE ID pneumonia]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  chills
+                            ,
+                                (2)  fatigue
+                            ,
+                                (3)  cough
+                            ,
+                                (4)  high_fever
+                            ,
+                                (5)  breathlessness
+                            ,
+                                (6)  sweating
+                            ,
+                                (7)  malaise
+                            ,
+                                (8)  phlegm
+                            ,
+                                (9)  chest_pain
+                            ,
+                                (10)  fast_heart_rate
+                            ,
+                                (11)  rusty_sputum
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Pneumonia
+                        ,
+                            (2) consult doctor
+                        ,
+                            (3) medication
+                        ,
+                            (4) rest
+                        ,
+                            (5) follow up
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Practice good hygiene, Don't smoke, Practice a healthy lifestyle, Avoid sick people
+
+                RISKFAC:
+                    Asthma, chronic obstructive pulmonary disease (COPD) or heart disease, Smoking, weakened immunity
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 95]:: nifedipine :: [DISEASE ID nifedipine]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    Dimethyl 1,4-dihydro-2,6-dimethyl-4-(o-nitrophenyl)-3,5-pyridinedicarboxylate .
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

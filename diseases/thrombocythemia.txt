@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 157]:: Thrombocythemia :: [DISEASE ID thrombocythemia]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    No precaution
+                RISKFAC:
+                    High blood cholesterol, high blood pressure, diabetes, and smoking.
+        

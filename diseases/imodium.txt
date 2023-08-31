@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 62]:: Imodium :: [DISEASE ID imodium]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    (loperamide hydrochloride), 4-(p-chlorophenyl)-4-hydroxy-N, N-dimethyl- a
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

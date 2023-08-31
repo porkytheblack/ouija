@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 134]:: Polio :: [DISEASE ID polio]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Getting vaccinated,
+                RISKFAC:
+                    Children younger than 5, unvaccinated individuals
+        

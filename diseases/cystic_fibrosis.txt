@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 148]:: Cystic fibrosis :: [DISEASE ID cystic_fibrosis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Appropriate hand hygiene, build up immunity
+                RISKFAC:
+                    Family history, it is most common in white people.
+        

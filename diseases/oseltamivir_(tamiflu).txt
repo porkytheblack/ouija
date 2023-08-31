@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 87]:: Oseltamivir (Tamiflu) :: [DISEASE ID oseltamivir_(tamiflu)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    antiviral drug
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 98]:: Ferrous sulfate :: [DISEASE ID ferrous_sulfate]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    Calcium phosphate, cellulose, croscarmellose sodium, FD&C red #40, hypromellose, magnesium stearate.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

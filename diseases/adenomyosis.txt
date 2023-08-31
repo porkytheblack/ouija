@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 154]:: Adenomyosis :: [DISEASE ID adenomyosis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    No precaution
+                RISKFAC:
+                    Prior uterine surgery, such as a C-section or fibroid removal, Childbirth, Middle age
+        

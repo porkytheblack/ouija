@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 131]:: Measles :: [DISEASE ID measles]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Practice good hand hygiene, Don�t share personal items with people who may be ill, get vaccinated
+                RISKFAC:
+                    Being unvaccinated, Having a vitamin A deficiency, travelling to places where measles is common
+        

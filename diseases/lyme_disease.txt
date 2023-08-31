@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 130]:: Lyme disease :: [DISEASE ID lyme_disease]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Use insect repellents, tick-proof your yard, Check your clothing, your children and pets for ticks
+                RISKFAC:
+                    Spending time in wooded or grassy areas, Not removing ticks promptly or properly
+        

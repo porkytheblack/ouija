@@ -1,0 +1,35 @@
+
+        
+            [DISEASE NUMBER 42]:: Hypertension  :: [DISEASE ID hypertension_]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Hypertension 
+                        ,
+                            (2) meditation
+                        ,
+                            (3) salt baths
+                        ,
+                            (4) reduce stress
+                        ,
+                            (5) get proper sleep
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

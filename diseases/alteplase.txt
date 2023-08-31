@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 94]:: alteplase :: [DISEASE ID alteplase]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    arginine, phosphoric acid, polysorbate 80, nitrogen
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

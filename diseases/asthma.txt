@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 105]:: Asthma :: [DISEASE ID asthma]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    switch to loose clothing, take deep breaths, get away from trigger, seek help
+                RISKFAC:
+                    ,Wheezing when exhaling,Shortness of breath,Chest tightness or pain.
+        

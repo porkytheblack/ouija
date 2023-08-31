@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 140]:: Chlamydia :: [DISEASE ID chlamydia]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Use condom during sexual intercourse, have sexually monogamous partner with no infection.
+                RISKFAC:
+                    Having a sex partner with multiple partners, Having multiple sex partners, Having had another STD
+        

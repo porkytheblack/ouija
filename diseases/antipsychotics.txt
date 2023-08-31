@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 75]:: antipsychotics :: [DISEASE ID antipsychotics]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    prochlorperazine, droperidol, haloperidol, and chlorpromazine
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

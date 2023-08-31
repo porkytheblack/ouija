@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 118]:: Gout :: [DISEASE ID gout]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Limit the intake of alcohol, fat, lose weight, Eat more complex carbohydrates, drink lots of water.
+                RISKFAC:
+                    High levels of uric acid, Alcohol consumption, Obesity, high BP, chronic condition, being man.
+        

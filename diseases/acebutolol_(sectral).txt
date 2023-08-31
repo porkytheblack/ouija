@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 74]:: Acebutolol (Sectral) :: [DISEASE ID acebutolol_(sectral)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    hydrochloride salt of (�)N-[3-Acetyl-4-[2- hydroxy-3-[(1- methylethyl)amino]propoxy]phenyl]
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

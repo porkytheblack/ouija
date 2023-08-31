@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 64]:: Pepto-Bismol, :: [DISEASE ID pepto-bismol,]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    flavor, magnesium aluminum silicate, methylcellulose, saccharin sodium
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

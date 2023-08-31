@@ -1,0 +1,26 @@
+
+        
+            [DISEASE NUMBER 104]:: Peptic Ulcer :: [DISEASE ID peptic_ulcer]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Avoid fatty spicy food, consume probiotic food, eliminate milk, limit alcohol
+
+                RISKFAC:
+                    taking NSAIDs, Smoking, H. pylori infected, alcohol consumption, untreated stress.
+        

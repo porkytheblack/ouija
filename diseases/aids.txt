@@ -1,0 +1,44 @@
+
+        
+            [DISEASE NUMBER 7]:: AIDS :: [DISEASE ID aids]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  muscle_wasting
+                            ,
+                                (2)  patches_in_throat
+                            ,
+                                (3)  high_fever
+                            ,
+                                (4)  extra_marital_contacts
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) AIDS
+                        ,
+                            (2) avoid open cuts
+                        ,
+                            (3) wear ppe if possible
+                        ,
+                            (4) consult doctor
+                        ,
+                            (5) follow up
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    pre-exposure prophylaxis (PrEP),use condoms or dental dams with oral sex
+                RISKFAC:
+                    Having unprotected sex,having another sexually transmitted infection
+
+        

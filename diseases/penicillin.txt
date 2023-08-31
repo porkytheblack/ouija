@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 71]:: Penicillin :: [DISEASE ID penicillin]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    VK (Penicillin V Potassium Tablets USP), for oral administration, contain 250 mg
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

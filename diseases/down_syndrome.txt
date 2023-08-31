@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 151]:: Down syndrome :: [DISEASE ID down_syndrome]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    No precaution
+                RISKFAC:
+                    Family history
+        

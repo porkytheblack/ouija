@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 88]:: Selective serotonin reuptake inhibitors (SSRIs) :: [DISEASE ID selective_serotonin_reuptake_inhibitors_(ssris)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    tetrahydronaphthalene linked to a phenyl group to form N-methyl-4-phenyl-1,2,3,4-tetrahydronaphthalen-1-amine skeleton
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

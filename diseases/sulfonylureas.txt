@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 54]:: Sulfonylureas :: [DISEASE ID sulfonylureas]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    a central S-aryl sulfonylurea structure with a p-substituent on the phenyl ring
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

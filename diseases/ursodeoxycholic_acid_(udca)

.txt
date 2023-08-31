@@ -1,0 +1,29 @@
+
+        
+            [DISEASE NUMBER 51]:: Ursodeoxycholic acid (UDCA)
+
+ :: [DISEASE ID ursodeoxycholic_acid_(udca)
+
+]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    ursodeoxycholic acid
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

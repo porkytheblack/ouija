@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 160]:: Anemia :: [DISEASE ID anemia]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    consuming iron-rich foods such as fish, poultry, eggs, meat, peas, beans, lentils, and potatoes.
+                RISKFAC:
+                    Family history, A diet lacking in certain vitamins and minerals, Intestinal disorders, Pregnancy.
+        

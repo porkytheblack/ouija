@@ -1,0 +1,50 @@
+
+        
+            [DISEASE NUMBER 31]:: Varicose veins :: [DISEASE ID varicose_veins]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  fatigue
+                            ,
+                                (2)  cramps
+                            ,
+                                (3)  bruising
+                            ,
+                                (4)  obesity
+                            ,
+                                (5)  swollen_legs
+                            ,
+                                (6)  swollen_blood_vessels
+                            ,
+                                (7)  prominent_veins_on_calf
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Varicose veins
+                        ,
+                            (2) lie down flat and raise the leg high
+                        ,
+                            (3) use oinments
+                        ,
+                            (4) use vein compression
+                        ,
+                            (5) dont stand still for long
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Lie down flat and raise the leg high, use ointments, use vein compressor, don't stand still for long
+
+                RISKFAC:
+                    Older age, being woman, Family history, Obesity, Standing or sitting for long periods of time.
+        

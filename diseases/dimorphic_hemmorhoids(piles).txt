@@ -1,0 +1,45 @@
+
+        
+            [DISEASE NUMBER 29]:: Dimorphic hemmorhoids(piles) :: [DISEASE ID dimorphic_hemmorhoids(piles)]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  constipation
+                            ,
+                                (2)  pain_during_bowel_movements
+                            ,
+                                (3)  pain_in_anal_region
+                            ,
+                                (4)  bloody_stool
+                            ,
+                                (5)  irritation_in_anus
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Dimorphic hemmorhoids(piles)
+                        ,
+                            (2) avoid fatty spicy food
+                        ,
+                            (3) consume witch hazel
+                        ,
+                            (4) warm bath with epsom salt
+                        ,
+                            (5) consume alovera juice
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,35 @@
+
+        
+            [DISEASE NUMBER 43]:: Hyperthyroidism :: [DISEASE ID hyperthyroidism]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Hyperthyroidism
+                        ,
+                            (2) eat healthy
+                        ,
+                            (3) massage
+                        ,
+                            (4) use lemon balm
+                        ,
+                            (5) take radioactive iodine treatment
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

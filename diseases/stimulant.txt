@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 76]:: stimulant :: [DISEASE ID stimulant]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    methylxanthines (methylated purines), cocaine, and nicotine.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

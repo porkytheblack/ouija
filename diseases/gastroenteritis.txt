@@ -1,0 +1,43 @@
+
+        
+            [DISEASE NUMBER 9]:: Gastroenteritis :: [DISEASE ID gastroenteritis]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  vomiting
+                            ,
+                                (2)  sunken_eyes
+                            ,
+                                (3)  dehydration
+                            ,
+                                (4)  diarrhoea
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Gastroenteritis
+                        ,
+                            (2) stop eating solid food for while
+                        ,
+                            (3) try taking small sips of water
+                        ,
+                            (4) rest
+                        ,
+                            (5) ease back into eating
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    stop eating solid food for while, try taking small sips of water, rest, ease back into eating
+                RISKFAC:
+                    measles and immunodeficiencies put the patient at a higher risk for a gastrointestinal
+        

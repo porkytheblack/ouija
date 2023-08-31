@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 83]:: intravenous :: [DISEASE ID intravenous]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    water, electrolytes, and/or glucose,albumin and blood product isotonic, hypotonic, or hypertonic.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

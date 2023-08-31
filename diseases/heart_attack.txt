@@ -1,0 +1,43 @@
+
+        
+            [DISEASE NUMBER 30]:: Heart attack :: [DISEASE ID heart_attack]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  vomiting
+                            ,
+                                (2)  breathlessness
+                            ,
+                                (3)  sweating
+                            ,
+                                (4)  chest_pain
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Heart attack
+                        ,
+                            (2) call ambulance
+                        ,
+                            (3) chew or swallow asprin
+                        ,
+                            (4) keep calm
+                        ,
+                            (5) 
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Eat a healthy diet, Get regular exercise, Limit alcohol, Don't smoke, Manage stress
+                RISKFAC:
+                    Tobacco, old age, High blood cholesterol, Obesity, Diabetes, Stress, An autoimmune condition
+        

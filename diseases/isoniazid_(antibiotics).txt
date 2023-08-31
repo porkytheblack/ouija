@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 80]:: Isoniazid (antibiotics) :: [DISEASE ID isoniazid_(antibiotics)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    silicon dioxide, lactose monohydrate, pregelatinized starch (corn), and stearic acid.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

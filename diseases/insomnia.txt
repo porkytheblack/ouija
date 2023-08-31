@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 121]:: Insomnia :: [DISEASE ID insomnia]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Avoid caffeine, alcohol late in the day, exercise regularly, Make your sleep place comfortable.
+                RISKFAC:
+                    Older age, being woman, during menopause, menstrual cycle or pregnancy,stress,mental health disorder
+        

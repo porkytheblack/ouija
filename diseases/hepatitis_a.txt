@@ -1,0 +1,57 @@
+
+        
+            [DISEASE NUMBER 20]:: hepatitis A :: [DISEASE ID hepatitis_a]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  joint_pain
+                            ,
+                                (2)  vomiting
+                            ,
+                                (3)  yellowish_skin
+                            ,
+                                (4)  dark_urine
+                            ,
+                                (5)  nausea
+                            ,
+                                (6)  loss_of_appetite
+                            ,
+                                (7)  abdominal_pain
+                            ,
+                                (8)  diarrhoea
+                            ,
+                                (9)  mild_fever
+                            ,
+                                (10)  yellowing_of_eyes
+                            ,
+                                (11)  muscle_pain
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) hepatitis A
+                        ,
+                            (2) Consult nearest hospital
+                        ,
+                            (3) wash hands through
+                        ,
+                            (4) avoid fatty spicy food
+                        ,
+                            (5) medication
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    wearing of latex gloves when handling faeces, urine, saliva, and blood.
+                RISKFAC:
+                    Travel in areas where hepatitis A is common, have a clotting-factor disorder, such as hemophilia
+        

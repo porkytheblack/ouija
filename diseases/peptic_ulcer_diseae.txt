@@ -1,0 +1,47 @@
+
+        
+            [DISEASE NUMBER 6]:: Peptic ulcer diseae :: [DISEASE ID peptic_ulcer_diseae]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  vomiting
+                            ,
+                                (2)  indigestion
+                            ,
+                                (3)  loss_of_appetite
+                            ,
+                                (4)  abdominal_pain
+                            ,
+                                (5)  passage_of_gases
+                            ,
+                                (6)  internal_itching
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Peptic ulcer diseae
+                        ,
+                            (2) avoid fatty spicy food
+                        ,
+                            (3) consume probiotic food
+                        ,
+                            (4) eliminate milk
+                        ,
+                            (5) limit alcohol
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

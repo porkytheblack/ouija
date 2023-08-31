@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 165]:: Amnesia :: [DISEASE ID amnesia]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Avoid heavy use of alcohol, drugs, Stay mentally active, exercise, use protective gear while playing
+                RISKFAC:
+                    Brain surgery, head injury or trauma, Stroke, Alcohol abuse, Seizures
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 124]:: PCOS :: [DISEASE ID pcos]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Maintain a healthy weight, Limit carbohydrates, Be active, Exercise regularly.
+                RISKFAC:
+                    Diabetes, High blood pressure, Unhealthy cholesterol, Depression and anxiety.
+        

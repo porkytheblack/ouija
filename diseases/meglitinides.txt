@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 55]:: Meglitinides :: [DISEASE ID meglitinides]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    belonging to the meglitinide class of antidiabetic agents with hypoglycemic activity
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

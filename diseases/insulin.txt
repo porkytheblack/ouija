@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 60]:: Insulin :: [DISEASE ID insulin]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    composed of two peptide chains referred to as the A chain and B chain
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

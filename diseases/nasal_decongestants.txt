@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 81]:: Nasal decongestants :: [DISEASE ID nasal_decongestants]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    decongestants�is pseudoephedrine or phenylephrine
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

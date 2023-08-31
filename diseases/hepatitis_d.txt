@@ -1,0 +1,53 @@
+
+        
+            [DISEASE NUMBER 23]:: Hepatitis D :: [DISEASE ID hepatitis_d]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  joint_pain
+                            ,
+                                (2)  vomiting
+                            ,
+                                (3)  fatigue
+                            ,
+                                (4)  yellowish_skin
+                            ,
+                                (5)  dark_urine
+                            ,
+                                (6)  nausea
+                            ,
+                                (7)  loss_of_appetite
+                            ,
+                                (8)  abdominal_pain
+                            ,
+                                (9)  yellowing_of_eyes
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Hepatitis D
+                        ,
+                            (2) consult doctor
+                        ,
+                            (3) medication
+                        ,
+                            (4) eat healthy
+                        ,
+                            (5) follow up
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

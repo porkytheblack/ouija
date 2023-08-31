@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 52]:: Steroid :: [DISEASE ID steroid]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    17carbon atom, bonded in 4 fused ring, 3 6-member cyclohexane ring
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

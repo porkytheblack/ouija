@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 65]:: Albuterol :: [DISEASE ID albuterol]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    molecular weight of albuterol sulfate is 576.7
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 90]:: diuretic :: [DISEASE ID diuretic]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    hydrochlorothiazide, chlorthalidone, or indapamide
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

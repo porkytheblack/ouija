@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 59]:: SGLT2 inhibitors :: [DISEASE ID sglt2_inhibitors]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    canagliflozin ,dapagliflozin, empagliflozin
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

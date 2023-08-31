@@ -1,0 +1,26 @@
+
+        
+            [DISEASE NUMBER 103]:: Drug allergy :: [DISEASE ID drug_allergy]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Stop irritation, consult nearest hospital, stop taking drug and follow up
+
+                RISKFAC:
+                    History of food allergy or hay fever, history of drug allergy, Increased exposure to a drug
+        

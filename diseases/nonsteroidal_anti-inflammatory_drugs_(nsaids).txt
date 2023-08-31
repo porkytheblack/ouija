@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 77]:: Nonsteroidal anti-inflammatory drugs (NSAIDs) :: [DISEASE ID nonsteroidal_anti-inflammatory_drugs_(nsaids)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    ibuprofen, acetylsalicylic acid, naproxen, indomethacin, meloxicam, and piroxicam
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

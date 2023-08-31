@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 173]:: Gastritis :: [DISEASE ID gastritis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Avoid known trigger foods, quit smoking, manage stress, avoiding alcohol, maintain healthy weight.
+                RISKFAC:
+                    Excessive alcohol use, Stress, Older age, Bacterial infection, vitamin B-12 deficiency.
+        

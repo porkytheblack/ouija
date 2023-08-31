@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 97]:: Sedative :: [DISEASE ID sedative]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    barbiturates, benzodiazepines, gamma-hydroxybutyrate (GHB)
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

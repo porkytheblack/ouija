@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 67]::  :: [DISEASE ID ]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    150 mg of metaproterenol sulfate as a micronized powder in inert propellants
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

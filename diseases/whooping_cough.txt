@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 137]:: Whooping cough :: [DISEASE ID whooping_cough]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Getting vaccinated,
+                RISKFAC:
+                    Being unvaccinated, travelling to places where whooping cough is common, contact of ill person
+        

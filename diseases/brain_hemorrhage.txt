@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 106]:: Brain hemorrhage :: [DISEASE ID brain_hemorrhage]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Don't smoke,Don't use drugs,Investigate corrective surgery
+                RISKFAC:
+                    Smoking, excessive alcohol, hypocholesterolemia, drugs, Old age, male sex, chronic kidney disease
+        

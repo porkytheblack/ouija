@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 82]:: Lidocaine :: [DISEASE ID lidocaine]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    hydrochloride and epinephrine, with 0.5 mg sodium metabisulfite and 0.2 mg citric acid.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

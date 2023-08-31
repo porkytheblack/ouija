@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 170]:: Cirrhosis :: [DISEASE ID cirrhosis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Don't abuse alcohol,Avoid high-risk sexual behavior,Get vaccinated against hepatitis B,low-fat diet.
+                RISKFAC:
+                    Excessive alcohol consumption, Having viral hepatitis, obesity.
+        

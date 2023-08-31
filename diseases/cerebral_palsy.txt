@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 159]:: Cerebral palsy :: [DISEASE ID cerebral_palsy]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Making sure child is vaccinated,Using proper car seat, Using crib with bed rail, Never shake a baby.
+                RISKFAC:
+                    Low birth weight, severe or untreated jaundice, Premature birth, Viral encephalitis, Toxoplasmosis
+        

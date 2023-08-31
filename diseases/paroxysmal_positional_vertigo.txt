@@ -1,0 +1,26 @@
+
+        
+            [DISEASE NUMBER 109]:: Paroxysmal Positional Vertigo :: [DISEASE ID paroxysmal_positional_vertigo]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Lie down, avoid sudden change in body, avoid abrupt head movement, relax
+
+                RISKFAC:
+                    Age 50 and older, being woman, head injury, disorder of the balance organs of your ear.
+        

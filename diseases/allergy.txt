@@ -1,0 +1,43 @@
+
+        
+            [DISEASE NUMBER 2]:: Allergy :: [DISEASE ID allergy]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  continuous_sneezing
+                            ,
+                                (2)  shivering
+                            ,
+                                (3)  chills
+                            ,
+                                (4)  watering_from_eyes
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Allergy
+                        ,
+                            (2) apply calamine
+                        ,
+                            (3) cover area with bandage
+                        ,
+                            (4) 
+                        ,
+                            (5) use ice to compress itching
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 146]:: Zika :: [DISEASE ID zika]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Prevent mosquito bites, using condoms, use insect repellents, wear protective clothing while travelling
+                RISKFAC:
+                    Living or traveling in countries where there have been outbreaks, Having unprotected sex.
+        

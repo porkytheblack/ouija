@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 156]:: scleroderma :: [DISEASE ID scleroderma]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Rare -Fewer than 1 million cases per year (India)
+                OCCURRENCE:
+                    Frequently massage skin, avoid soaps that dry skin, keep skin moist by use of moisturizing lotions
+                RISKFAC:
+                    Genetics, being woman, Immune system problems, Environmental triggers.
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 169]:: Bronchitis :: [DISEASE ID bronchitis]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very common-More than 10 million cases per year (India)
+                OCCURRENCE:
+                    Don't smoke, Wash your hands frequently, wear mask in a large crowd, Avoid contacting ill people
+                RISKFAC:
+                    Cigarette smoke, Gastric reflux, Exposure to irritants on the job, weak immunity.
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 123]:: Kidney stones :: [DISEASE ID kidney_stones]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Stay hydrated, Eat more calcium-rich foods and Eat less sodium, oxalate-rich foods, animal protein.
+                RISKFAC:
+                    Dehydration, family history, Digestive diseases, obesity, diet high in protein, sodium and sugar
+        

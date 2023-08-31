@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 58]:: GLP-1 receptor agonists :: [DISEASE ID glp-1_receptor_agonists]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    30 or 31 amino acid long peptide hormone
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

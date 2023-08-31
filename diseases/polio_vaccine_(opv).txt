@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 92]:: polio vaccine (OPV) :: [DISEASE ID polio_vaccine_(opv)]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    humoral' or serum
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

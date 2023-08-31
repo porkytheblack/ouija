@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 84]:: Levothyroxine :: [DISEASE ID levothyroxine]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    L-thyroxine , levothyroxine , 51-48-9 , thyroxine , thyroxin
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

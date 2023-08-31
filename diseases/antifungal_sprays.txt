@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 46]:: Antifungal sprays :: [DISEASE ID antifungal_sprays]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    clotrimazole, econazole, ketoconazole, miconazole, tioconazole, terbinafine, and amorolfine
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 57]:: DPP-4 inhibitors :: [DISEASE ID dpp-4_inhibitors]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    a class of oral hypoglycemics that block the enzyme dipeptidyl peptidase-4
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 139]:: Anthrax :: [DISEASE ID anthrax]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Avoid touching a contaminated surface, avoid contact of ill person, prevent animal bites.
+                RISKFAC:
+                    Handle animal skins, furs, Work with anthrax in a laboratory, Inject illegal drugs.
+        

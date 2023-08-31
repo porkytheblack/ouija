@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 128]:: E. coli Infection :: [DISEASE ID e._coli_infection]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very rare- Fewer than 100 thousand cases per year (India)
+                OCCURRENCE:
+                    Wash hands, cutting boards, utensils after they touch raw meat. Avoid raw milk, unpasteurized dairy
+                RISKFAC:
+                    Weakened immune systems, Eating certain types of food, being non vegetarian.
+        

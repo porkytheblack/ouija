@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 126]:: Schizophrenia :: [DISEASE ID schizophrenia]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Don't use street drugs, and moderate any use of alcohol, Avoid social isolation.
+                RISKFAC:
+                    Family history, birth complications, drugs during teen years and young adulthood.
+        

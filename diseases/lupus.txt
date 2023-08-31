@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 162]:: Lupus :: [DISEASE ID lupus]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Limit direct sunlight, Get enough sleep, manage stress, Stay away from people who are sick.
+                RISKFAC:
+                    Men, Blacks,Latinos and Asian Americans are more likely to have lupus nephritis than whites.
+        

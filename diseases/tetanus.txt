@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 136]:: Tetanus :: [DISEASE ID tetanus]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Extremely rare- Fewer than 5 thousand cases per year (India)
+                OCCURRENCE:
+                    Control bleeding, Keep the wound clean, Use antibiotics, Cover the wound, Change the dressing
+                RISKFAC:
+                    Injecting drugs, Gunshot wounds, fractures, Animal or insect bites, foot ulcers, surgical wounds
+        

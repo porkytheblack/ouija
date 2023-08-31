@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 167]:: Bladder stones :: [DISEASE ID bladder_stones]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Common -More than 1 million cases per year (India)
+                OCCURRENCE:
+                    Drink plenty of fluids, especially water.
+                RISKFAC:
+                    Nerve damage. Stroke, spinal cord injuries, Parkinson's disease, diabetes, being man
+        

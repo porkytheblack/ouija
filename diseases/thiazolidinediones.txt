@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 56]:: Thiazolidinediones :: [DISEASE ID thiazolidinediones]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    potent, synthetic ligands for peroxisome proliferator-activated receptor gamma-? activation
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

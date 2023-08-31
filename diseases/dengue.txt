@@ -1,0 +1,62 @@
+
+        
+            [DISEASE NUMBER 18]:: Dengue :: [DISEASE ID dengue]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  skin_rash
+                            ,
+                                (2)  chills
+                            ,
+                                (3)  joint_pain
+                            ,
+                                (4)  vomiting
+                            ,
+                                (5)  fatigue
+                            ,
+                                (6)  headache
+                            ,
+                                (7)  nausea
+                            ,
+                                (8)  loss_of_appetite
+                            ,
+                                (9)  pain_behind_the_eyes
+                            ,
+                                (10)  back_pain
+                            ,
+                                (11)  malaise
+                            ,
+                                (12)  muscle_pain
+                            ,
+                                (13)  red_spots_over_body
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Dengue
+                        ,
+                            (2) drink papaya leaf juice
+                        ,
+                            (3) avoid fatty spicy food
+                        ,
+                            (4) keep mosquitos away
+                        ,
+                            (5) keep hydrated
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    Very rare- Fewer than 100 thousand cases per year (India)
+                OCCURRENCE:
+                    drink papaya leaf juice, avoid fatty spicy food, keep mosquitos away, keep hydrated
+
+                RISKFAC:
+                    Living or traveling in tropical areas, Prior infection with a dengue fever virus
+        

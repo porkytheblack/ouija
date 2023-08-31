@@ -1,0 +1,25 @@
+
+        
+            [DISEASE NUMBER 99]:: immunosuppressive drug :: [DISEASE ID immunosuppressive_drug]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    calcineurin inhibitors, interleukin inhibitors, selective immunosuppressants and TNF alfa inhibitors.
+                DESCRIPTION
+                    
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,35 @@
+
+        
+            [DISEASE NUMBER 40]:: Diabetes  :: [DISEASE ID diabetes_]
+
+            DISEASE SYMPTOMS::
+                undefined
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                
+                            (1) Diabetes 
+                        ,
+                            (2) have balanced diet
+                        ,
+                            (3) exercise
+                        ,
+                            (4) consult doctor
+                        ,
+                            (5) follow up
+                        
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        

@@ -1,0 +1,35 @@
+
+        
+            [DISEASE NUMBER 174]:: Impetigo :: [DISEASE ID impetigo]
+
+            DISEASE SYMPTOMS::
+                
+                                (1)  skin_rash
+                            ,
+                                (2)  high_fever
+                            ,
+                                (3)  blister
+                            ,
+                                (4)  red_sore_around_nose
+                            ,
+                                (5)  yellow_crust_ooze
+                            
+
+            DISEASE MEDICINE::
+                COMPOSITIION
+                    undefined
+                DESCRIPTION
+                    undefined
+            
+            DISEASE PRECAUTIONS::
+                undefined
+            
+            DISEASE RISK FACTORS
+                
+                PRECAUTION:
+                    undefined
+                OCCURRENCE:
+                    undefined
+                RISKFAC:
+                    undefined
+        
